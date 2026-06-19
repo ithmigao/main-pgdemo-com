@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ithmigao.github.io/main-pgdemo-com/sitemap.xml
